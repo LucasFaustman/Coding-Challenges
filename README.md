@@ -1,7 +1,7 @@
 # CodeWars Challenges
 A repository filled with Codewars challenges. Completed 100+ katas(challenges) and push 7 solutions a week.
 
-**Link to profile: https://www.codewars.com/users/LucasFaustman
+**Link to profile:** https://www.codewars.com/users/LucasFaustman
 
 ![codingchallengesSS](https://user-images.githubusercontent.com/99927513/167510630-37480818-9b7b-4a6c-afb9-67e929d2eed0.png)
 
