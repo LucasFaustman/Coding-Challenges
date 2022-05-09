@@ -3,7 +3,8 @@ A repository filled with Codewars challenges. Completed 100+ katas(challenges) a
 
 **Link to profile: https://www.codewars.com/users/LucasFaustman
 
-![alt tag](![codingchallengesSS](https://user-images.githubusercontent.com/99927513/167509204-1db78d8d-a862-4012-abac-7ea662bc941b.png)
+![alt tag](![codingchallengesSS](https://user-images.githubusercontent.com/99927513/167510455-edaa1584-774d-497f-89ac-2329ff2a5daa.png)
+)
 )
 
 ## How It's Made:
