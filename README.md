@@ -9,7 +9,7 @@ A repository filled with Coding challenges. Completed 100+ challenges and push 7
 
 **Tech used:** Javascript
 
-I do a Codewar challenge every day!
+I do a Coding challenge every day!
 
 ## Optimizations
 
