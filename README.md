@@ -1,5 +1,5 @@
 # Coding Challenges
-A repository filled with Codewars challenges. Completed 100+ katas(challenges) and push 7 solutions a week.
+A repository filled with Coding challenges. Completed 100+ challenges and push 7 solutions a week.
 
 **Link to profile:** https://www.codewars.com/users/LucasFaustman
 
