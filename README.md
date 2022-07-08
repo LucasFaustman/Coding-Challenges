@@ -3,7 +3,8 @@ A repository filled with Coding challenges. Completed 100+ challenges and push 7
 
 **Link to profile:** https://www.codewars.com/users/LucasFaustman
 
-![codingchallengesSS](https://user-images.githubusercontent.com/99927513/167510630-37480818-9b7b-4a6c-afb9-67e929d2eed0.png)
+![Coding Challenges](https://user-images.githubusercontent.com/99927513/178077184-18725e74-c4ca-4ba0-a246-ba68fadb3770.png)
+
 
 ## How It's Made:
 
