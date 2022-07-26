@@ -9,4 +9,4 @@ function reverse(string){
   
   //  p: string. might be empty but will Lsays be a string
   // r: return a string where the sentence is reversed
-  //e: 'hello there' -> "there hello"""
+  //e: 'hello there' -> "there hello""
