@@ -3,14 +3,14 @@ A repository filled with Coding challenges. Completed 100+ challenges and push 7
 
 **Link to profile:** https://www.codewars.com/users/LucasFaustman
 
-![Coding Challenges](https://user-images.githubusercontent.com/99927513/178077184-18725e74-c4ca-4ba0-a246-ba68fadb3770.png)
+<img width="1032" alt="Screen Shot 2022-10-07 at 7 45 53 PM" src="https://user-images.githubusercontent.com/99927513/194684374-5c92e712-41d8-44e1-b0ab-4693c4138739.png">
 
 
 ## How It's Made:
 
-**Tech used:** Javascript
+**Tech used:** JavaScript
 
-I do a Coding challenge every day!
+I complete a coding challenge every day!
 
 ## Optimizations
 
