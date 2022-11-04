@@ -4,15 +4,6 @@
 
 // Write a function that will accept a jumble of letters as well as a dictionary, and output a list of words that the pirate might have meant.
 
-
-SORT BY
-
-Ad
-Familiar with any of these? TypeScript, React, Java, Python, Kubernetes, Terraform, Snowflake? Join Coveo!
-Ads via Carbon
-Ad
-Stay up to date on latest Codewars updates and developer insights.Follow Us on Twitter
-LucasFaustman
 function grabscrab(anagram, dictionary) {
 
   //declare new array
