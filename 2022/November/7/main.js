@@ -12,12 +12,20 @@
 
 function findDeletedNumber(array,mixedArray) {
     //do a simple filter
-    //!mixedArr.includes(element)
-    //indexOf has a shorter time complexity compared to .includes
+    //!mixedArr.includes(element)  
+    // let result = array.filter(element => mixedArray.indexOf(element) === -1).join('') 
   
-    let result = array.filter(element => mixedArray.indexOf(element) === -1).join('') 
-  
-    return result.length ? Number(result) : 0
+    // return result.length ? Number(result) : 0
+
+    //upper solution is quadratic, might be able to do this in linear
+
+    if (array.length === mixedArray.length) {
+        return 0
+    } else {
+        let arraySum = array.reduce((acc,num) => acc + num)
+        let mixedSum = mixedArray.reduce((acc,num) => acc + num)
+        return arraySum - mixedSum
+    }
   }
   
   //Will be two arrays. both arrays will be valid and full of integers. unclear if always will be numbers, might be string or symbols.
