@@ -21,7 +21,7 @@ function ArrayAdditionI(arr) {
       total += arr[i];
       //then first inner loop
       for (var j = 0; j < arr.length; j++){
-        //if our iteration in j does not equal i, add j to ttal
+        //if our iteration in j does not equal i, add j to total
         if (i != j) {
           total += arr[j];
           //if our total is max num, return true
@@ -34,7 +34,7 @@ function ArrayAdditionI(arr) {
       //second inner loop
         
       for (var k = 0; k < arr.length; k++) {
-        //same process as above, but with k and minus our iteration if the prior loop iteration does not equal our maxNum
+        //same process as above, but with k! minus our iteration from our total to find descending combinations
         if (i != k) {
           total -= arr[k];
           if (total == maxNum) {
