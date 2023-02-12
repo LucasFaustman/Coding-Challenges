@@ -15,17 +15,33 @@
  var arraySign = function(nums) {
     //first get product using .reduce
 
-    let product = nums.reduce((acc,num) => acc * num,1)
-    //then conditional
+    // let product = nums.reduce((acc,num) => acc * num,1)
+    // //then conditional
 
 
-    if (product > 0) {
-        return 1
-    } else if (product === 0 || !product) {
-        return 0
-    } else {
-        return -1
-    }
+    // if (product > 0) {
+    //     return 1
+    // } else if (product === 0 || !product) {
+    //     return 0
+    // } else {
+    //     return -1
+    // }
+
+     //optimized solution
+
+     let answer = 1
+
+     for (let num of nums) {
+         if (num === 0) {
+             return 0
+         } 
+ 
+         if (num < 0) {
+             answer = -answer
+         }
+ 
+     }
+             return answer
 };
 
 //Will be an array of integers. will always be a valid array. sometimes integers might be negative or positive
