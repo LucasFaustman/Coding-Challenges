@@ -43,6 +43,6 @@ function filterHomogenous(arrays) {
   //Return a new array which carries over only the arrays from the original where are not empty and whose
   //items are all the same type
   
-  //important to not that implicit casting is not allowed
+  //important to not that implicit casting is not allowed.
   
   //Given [[1, 5, 4], ['a', 3, 5], ['b'], [], ['1', 2, 3]], function should return [[1, 5, 4], ['b']].
