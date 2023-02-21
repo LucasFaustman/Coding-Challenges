@@ -23,4 +23,4 @@
 // Explanation:
 // word1 represents string "ab" + "c" -> "abc"
 // word2 represents string "a" + "bc" -> "abc"
-// The strings are the same, so return true.
+// The strings are the same, so return true..
