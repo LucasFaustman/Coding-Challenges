@@ -19,7 +19,7 @@
         if (arr[i] === 0) {
             //splice the arr, adding 0 to the next element
             arr.splice(i,0, 0)
-            //pop the last from the array, and iterate by 1 over the 0
+            //pop the last from the array, and iterate by 1 over the added 0
             arr.pop()
             i++
         }
