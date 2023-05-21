@@ -11,6 +11,7 @@
  * @return {number}
  */
  var numMatchingSubseq = function(s, words) {
+     //declare a res, and a map to hold string vals
     var result = 0;
     var map = new Map();
     for (let i = 0; i < words.length; i++){
